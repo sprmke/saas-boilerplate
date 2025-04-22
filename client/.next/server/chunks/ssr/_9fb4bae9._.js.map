@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 30, "column": 0}, "map": {"version":3,"sources":["file:///Users/michaelmanlulu/Projects/personal-projects/rental-property-app/client/src/app/%28dashboard%29/tenants/favorites/page.tsx"],"sourcesContent":["import React from 'react';\n\nconst Favorites = () => {\n  return <div>Favorites</div>;\n};\n\nexport default Favorites;\n"],"names":[],"mappings":";;;;;AAEA,MAAM,YAAY;IAChB,qBAAO,ubAAC;kBAAI;;;;;;AACd;uCAEe","debugId":null}}]
+}

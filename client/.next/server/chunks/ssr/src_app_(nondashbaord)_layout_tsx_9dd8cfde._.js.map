@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///Users/michaelmanlulu/Projects/personal-projects/rental-property-app/client/src/app/%28nondashbaord%29/layout.tsx"],"sourcesContent":["import React from 'react';\n\nconst layout = ({ children }: { children: React.ReactNode }) => {\n  return (\n    <div className=\"h-full w-full\">\n      <Navbar />\n      <main\n        className={`h-full flex w-full flex-col`}\n        style={{ paddingTop: `${NAVBAR_HEIGHT}px` }}\n      >\n        {children}\n      </main>\n    </div>\n  );\n};\n\nexport default layout;\n"],"names":[],"mappings":";;;;;AAEA,MAAM,SAAS,CAAC,EAAE,QAAQ,EAAiC;IACzD,qBACE,ubAAC;QAAI,WAAU;;0BACb,ubAAC;;;;;0BACD,ubAAC;gBACC,WAAW,CAAC,2BAA2B,CAAC;gBACxC,OAAO;oBAAE,YAAY,GAAG,cAAc,EAAE,CAAC;gBAAC;0BAEzC;;;;;;;;;;;;AAIT;uCAEe","debugId":null}}]
+}
