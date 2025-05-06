@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///Users/michaelmanlulu/Projects/personal-projects/rental-property-app/client/src/app/%28nondashbaord%29/landing/page.tsx"],"sourcesContent":["'use client';\n\nimport { motion } from \"framer-motion\";\nimport Image from \"next/image\";\n\nexport default function LandingPage() {\n  return <div>LandingPage</div>;"],"names":[],"mappings":";;;;AAAA;;AAKe,SAAS;IACtB,qBAAO,ubAAC;kBAAI;;;;;;AAAiB","debugId":null}}]
-}

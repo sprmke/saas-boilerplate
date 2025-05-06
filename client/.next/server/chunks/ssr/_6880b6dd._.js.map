@@ -1,8 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
-    {"offset": {"line": 30, "column": 0}, "map": {"version":3,"sources":["file:///Users/michaelmanlulu/Projects/personal-projects/rental-property-app/client/src/app/%28nondashbaord%29/landing/HeroSection.tsx"],"sourcesContent":["import Image from 'next/image';\n\nimport { motion } from 'framer-motion';\n\nimport { Button } from '@/components/ui/button';\nimport { Input } from '@/components/ui/input';\n\nconst HeroSection = () => {\n  return (\n    <div className=\"relative h-screen\">\n      <Image\n        src=\"/landing-splash.jpg\"\n        alt=\"Kame Homes Hero Image\"\n        fill\n        className=\"object-cover object-center\"\n        priority\n      />\n      <div className=\"absolute inset-0 bg-black bg-opacity-60\"></div>\n    </div>\n  );\n};\n\nexport default HeroSection;\n"],"names":[],"mappings":";;;;AAAA;;;AAOA,MAAM,cAAc;IAClB,qBACE,ubAAC;QAAI,WAAU;;0BACb,ubAAC,sUAAA,CAAA,UAAK;gBACJ,KAAI;gBACJ,KAAI;gBACJ,IAAI;gBACJ,WAAU;gBACV,QAAQ;;;;;;0BAEV,ubAAC;gBAAI,WAAU;;;;;;;;;;;;AAGrB;uCAEe","debugId":null}},
-    {"offset": {"line": 73, "column": 0}, "map": {"version":3,"sources":["file:///Users/michaelmanlulu/Projects/personal-projects/rental-property-app/client/src/app/%28nondashbaord%29/landing/page.tsx"],"sourcesContent":["import HeroSection from '@/app/(nondashbaord)/landing/HeroSection';\n\nconst LandingPage = () => {\n  return (\n    <div>\n      <HeroSection />\n    </div>\n  );\n};\n\nexport default LandingPage;\n"],"names":[],"mappings":";;;;AAAA;;;AAEA,MAAM,cAAc;IAClB,qBACE,ubAAC;kBACC,cAAA,ubAAC,yJAAA,CAAA,UAAW;;;;;;;;;;AAGlB;uCAEe","debugId":null}}]
-}
